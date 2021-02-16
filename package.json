@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemxz/portfolio.git"
+  },
+  "author": "Jemail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemxz/portfolio/issues"
+  },
+  "homepage": "https://github.com/jemxz/portfolio#readme"
+}
